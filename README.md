@@ -1,6 +1,6 @@
 ## Internship at CashFlo as a Data Analyst
 
-![Image](HaderCashFloInternship.png)
+![Image](HeaderCashFloInternship.png)
 
 **Duration:** [FEB 2022] - [JUN 2022]
 

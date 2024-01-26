@@ -18,7 +18,7 @@ As a **Data Analyst Intern**, I played a vital role in enhancing CashFlo's opera
 3. **Buyer Data Aggregation**: By gathering detailed buyer profiles, I supported the credit and risk teams in making informed decisions.
    - [Master File_Buyer - Mar24-Updated-Moh copy.xlsx](Master%20File_Buyer%20-%20Mar24-Updated-Moh%20copy.xlsx)
 5. **Invoice Aging Filter Implementation**: Collaborated in a key project, improving the invoice processing system for optimized financial operations.
-   - [Added Invoice Aging Filter Excel Sheet](Added%20Invoice%20Aging%20Filter%20Excel%20Sheet.xlsx)
+   - [Invoice Aging Filter Excel Sheet](Added%20Invoice%20Aging%20Filter%20Excel%20Sheet.xlsx)
 
 ### Skills and Impact
 - Developed keen insights into data-driven strategies in fintech.

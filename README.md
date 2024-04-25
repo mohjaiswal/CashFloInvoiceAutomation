@@ -22,7 +22,8 @@ As a **Data Analyst Intern**, I played a vital role in enhancing CashFlo's opera
 
 ### Skills and Impact
 - Developed keen insights into data-driven strategies in fintech.
-- Contributed to the refinement of supply chain financing processes.
+- Contributed to the refinement of supply chain financing processes
+- Slashed Credit Approval Memorandum generation times by over **60%**.
 - Fostered an environment of efficient financial operations and enhanced client relationships.
 
 *Disclaimer: All data managed during the internship is confidential and proprietary to CashFlo.*

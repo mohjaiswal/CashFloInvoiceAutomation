@@ -30,4 +30,6 @@ As a **Data Analyst Intern**, I played a vital role in enhancing CashFlo's opera
 
 ---
 
-This internship was not only a testament to my analytical abilities but also a deep dive into the intricate world of fintech and supply chain finance, reflecting CashFlo's commitment to innovation and excellence in financial solutions.
+This internship was not only a testament to my analytical abilities but also a deep dive into the intricate world of fintech and supply chain finance, reflecting CashFlo's commitment to innovation and excellence in financial solutions. This information is property of CashFlo.io, any misuses of this information will result in legal actions taken by Cashflo India. 
+
+©️ Cashflo India Reserved Rights

@@ -1,4 +1,4 @@
-## Internship at CashFlo as a Data Analyst
+## Internship at CashFlo as a Winter Data Intelligence Associate
 
 ![Image](HeaderCashFloInternship.png)
 
